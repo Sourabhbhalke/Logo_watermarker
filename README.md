@@ -1,5 +1,5 @@
 # Logo_watermarker
-This repository will contain Colab/noteboo code for creating watermark on an image(for example , BMW logo)
+This repository will contain Colab/Jupyter notebook code for creating watermark on an image(for example , BMW logo)
 # BMW Logo Watermarker
 
 ## Overview
